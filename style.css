@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Prelaoder */
-#preloader {
+/*#preloader {
   position: fixed;
   left: 0;
   top: 0;
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
   overflow: visible;
   background: #fff url("../img/preloader.svg") no-repeat center center;
-}
+}*/
 
 /* Back to top button */
 .back-to-top {
